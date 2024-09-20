@@ -31,5 +31,5 @@ httpie==3.2.3
 # Security
 Flask-Talisman
 Flask-Cors
-requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
-urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
+requests
+urllib3
